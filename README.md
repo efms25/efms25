@@ -25,4 +25,4 @@ Full-stack software enginner dev focused in React and Nodejs 👨🏽‍💻
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=efms25&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=efms25&theme=dracula)](https://git.io/streak-stats)
