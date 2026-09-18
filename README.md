@@ -4,7 +4,7 @@
 
 ## I'm Eric Santana, developer and tech lover.
 
-Full-stack software enginner dev focused in React and Nodejs 👨🏽‍💻
+Full-stack software enginner focused in Build scalable and reliable systems with Node.js and AI!
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-santana-955812159/) 
